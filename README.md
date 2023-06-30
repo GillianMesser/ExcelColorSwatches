@@ -1,5 +1,5 @@
 # Summary
-This Excel file uses VBA to help identify colors and hex/rgb codes for use in web/app development.
+This Excel file (color_palettes.xlsm) uses VBA to help identify colors and hex/rgb codes for use in web/app development.  The VBA code is also provided in 'ColorCodes.bas' - be sure to read the comments at the top before using the code.
 
 Starting with the "Code to Color" sheet - you can enter either a hex code (ex. DDEBF7) or RGB code (ex. 226, 239, 218) and Excel will update the cell's background color to match.  You can use this to tweak colors until you get a palette you are happy with.  
 
